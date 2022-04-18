@@ -7,10 +7,7 @@ Web developer
 *   🌍  I'm based in Lviv
 *   ✉️  You can contact me at [rubakvlad7@gmail.com](mailto:rubakvlad7@gmail.com)
 *   🧠  I'm learning CSS
-<a href="https://www.twitter.com/RybakkVlad" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/RybakkVlad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.twitch.tv/Zeroqnn" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/Zeroqnn?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+<a href="https://www.twitter.com/RybakkVlad" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RybakkVlad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.twitch.tv/Zeroqnn" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/Zeroqnn?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 <p align="left">
