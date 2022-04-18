@@ -7,7 +7,10 @@ Web developer
 *   🌍  I'm based in Lviv
 *   ✉️  You can contact me at [rubakvlad7@gmail.com](mailto:rubakvlad7@gmail.com)
 *   🧠  I'm learning CSS
-<a href="https://www.twitter.com/RybakkVlad" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/RybakkVlad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.twitch.tv/Zeroqnn" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/Zeroqnn?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS"/></a>
+<a href="https://www.twitter.com/RybakkVlad" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/RybakkVlad?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a><a href="https://www.twitch.tv/Zeroqnn" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitch/status/Zeroqnn?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 <p align="left">
@@ -17,7 +20,7 @@ Web developer
                     </p>
                     
 
-### Socials
+                  ### Socials
                   
 <p align="left"> <a href="https://discord.com/users/Vladyk#6296" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/vladyslavrybakk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Vladykkk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vladyslavrybak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vladyslav-rybak-2698a2222/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18191169/vladyk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RybakkVlad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/Zeroqnn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
