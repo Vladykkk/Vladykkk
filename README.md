@@ -13,7 +13,7 @@ I'm Vladyslav Rybak a Front-End Developer with 2 years of experience. Experience
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 
 ### Business
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1vDx9v1vmr6jQzrn9mNtcJgBEnQQDKOHN/view?usp=sharing)
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1hrBhzLAN9qaF7keEDUcvO-cFb1PdGzI_/view?usp=sharing)
 - :email: rubakvlad7@gmail.com
 
 ### My stats ⭐
