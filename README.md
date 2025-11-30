@@ -1,8 +1,8 @@
 ### Hey there! 👋
 
-I'm Vlad, a Front-End Engineer based in Ukraine.
+I'm Vlad, a Front-End Developer based in Ukraine.
 
-I design and develop solution of any scale.
+I design and develop solutions of any scale.
 
 My main tech stack:
 - React
@@ -11,7 +11,14 @@ My main tech stack:
 - TailwindCSS
 - SCSS
 
-I've build plenty of applications, some of theme pinned on my page.
+Libraries:
+- Framer Motion
+
+AI:
+- Claude Code
+- ChatGPT
+
+I've build plenty of applications, resolving conflicts, some of them pinned on my page.
 
 My Hobbies:
 - Books
