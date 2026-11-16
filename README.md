@@ -1,10 +1,10 @@
 ### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Vlad, a Front-End Developer based in Ukraine.
+I'm Vlad, a Full Stack Engineer based in Ukraine.
 
 I design and develop solutions of any size.
 
-I've built plenty of applications and made the best decisions.
+I've built plenty of applications & systems, and made the best decisions that solved real issues and matched the target goal.
 
 ---
 
